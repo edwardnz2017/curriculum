@@ -18,7 +18,8 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
 <details markdown="block">
   <summary> Show Student Solutions </summary>
 
-* Add your solution below this line!
+* Add your solution below this line
+* [Edward's Solution](https://github.com/edwardnz2017/Weather-App) - [View in Browser](https://edwardnz2017.github.io/Weather-App/)
 * [Sher's React Solution](https://github.com/sher-s7/react-weather-app) - [View in Browser](https://sher-s7.github.io/react-weather-app/)
 * [guyroberts21's Solution](https://github.com/guyroberts21/weather-app) - [View in Browser](https://guyroberts21.github.io/weather-app/)
 * [Jose Salvador's Solution](https://github.com/Jsalvadorpp/weather-angular) - [View in Browser](https://jsalvadorpp.github.io/weather-angular/)
